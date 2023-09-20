@@ -3,6 +3,7 @@
 # 人工智慧強化餐廳客服系統 張皓瑜
 # linebot 教學影片
 - [電商聊天機器人  LINE Bot 實戰](https://www.youtube.com/playlist?list=PL0q2rYtUibBUczmtbH33V6nv8KCYy9mRn)
+- [【Maso的萬事屋】LINEBOT教學](https://www.youtube.com/playlist?list=PLG4d6NSc7_l5-GjYiCdYa7H5Wsz0oQA7U)
 
 # ChatGPT+Linebot教學影片
 - [快速建立AI聊天機器人ChatGPT+Linebot串接 -by chatGPT Your Own Line Chatbot in Just 20 Minutes](https://www.youtube.com/watch?v=cKUNwqddBUM)

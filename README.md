@@ -4,3 +4,7 @@
 # 教學影片
 - [快速建立AI聊天機器人ChatGPT+Linebot串接 -by chatGPT Your Own Line Chatbot in Just 20 Minutes](https://www.youtube.com/watch?v=cKUNwqddBUM)
 - [GPT串接LINE聊天機器人，部署render｜6分鐘學會｜程式設計｜Python｜render部署｜LINEBOT](https://www.youtube.com/watch?v=-bB65g1qqTg)
+
+
+# 其他教學影片
+- [用ChatGPT 撰寫操作Excel 的Python 程式，ChatGPT 能夠取代軟體工程師建立自動化系統嗎？](https://www.youtube.com/watch?v=L26nKhwlePM)

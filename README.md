@@ -8,3 +8,4 @@
 
 # 其他教學影片
 - [用ChatGPT 撰寫操作Excel 的Python 程式，ChatGPT 能夠取代軟體工程師建立自動化系統嗎？](https://www.youtube.com/watch?v=L26nKhwlePM)
+- [ChatGPT提升Excel技能10倍（2023） | chatgpt | chatgpt應用 | chatgpt替代 | office | excel | 人工智能](https://www.youtube.com/watch?v=ozoJl73jYf4)
